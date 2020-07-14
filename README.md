@@ -6,3 +6,4 @@ Hello
 This is a line from RSTUDIO!!!!!!!
 So if I make more changes then I have more things to commit? 
 One more time, for practice's sake :) !
+Editing this file now from GitHub to be pulled in Rstudio 
